@@ -1,0 +1,13 @@
+{
+  "temperature": 25.5,
+  "humidity": 65,
+  "description": "Sample data (API key needed)",
+  "feels_like": null,
+  "pressure": null,
+  "wind_speed": null,
+  "forecast": {
+    "avg_temperature": 25.5,
+    "avg_humidity": 65,
+    "total_rainfall_7days": 25.0
+  }
+}

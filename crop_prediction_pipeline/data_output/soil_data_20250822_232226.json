@@ -1,0 +1,11 @@
+{
+  "texture_type": "clay",
+  "nitrogen": 1.28,
+  "organic_carbon": 11.9,
+  "ph": 7.1,
+  "npk_values": {
+    "N": 80,
+    "P": 40,
+    "K": 45
+  }
+}
